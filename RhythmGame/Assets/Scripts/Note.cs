@@ -8,6 +8,7 @@ public class Note : MonoBehaviour
     private void Awake()
     {
         rectTransform = GetComponent<RectTransform>();
+        //
     }
 
     public void SetSize(float size)
