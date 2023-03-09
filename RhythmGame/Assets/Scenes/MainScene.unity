@@ -621,6 +621,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: NoteLine
       objectReference: {fileID: 0}
+    - target: {fileID: 4808618903160168503, guid: 5c222417326e1694394fdd620d41e9ed, type: 3}
+      propertyPath: m_Color.a
+      value: 0.29803923
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808618903160168503, guid: 5c222417326e1694394fdd620d41e9ed, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808618903160168503, guid: 5c222417326e1694394fdd620d41e9ed, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808618903160168503, guid: 5c222417326e1694394fdd620d41e9ed, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c222417326e1694394fdd620d41e9ed, type: 3}
 --- !u!224 &867633111 stripped
@@ -774,7 +790,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
